@@ -1,6 +1,6 @@
 # AutoBDDCucu
 
-Pending WOrk:
+Pending Work:
 + Need to Parameterize some data
 + Need to Create page objects for remaining pages
 
